@@ -10,6 +10,6 @@ public class ProductController {
 
 	@GetMapping("msg")
 	public String message() {
-		return "hello world";
+		return "WELCOME TO HOME PAGE";
 	}
 }
